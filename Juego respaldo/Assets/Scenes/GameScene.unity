@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c2601a448950ad42bfb4c1227344198, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lives: 5
+  lives: 4
   lifeIconPrefab: {fileID: 8628420430451912645, guid: 8084d7a7cc3f4d143bb8f5e096825d96, type: 3}
   livesPanel: {fileID: 775222240}
 --- !u!114 &775222242
@@ -1704,7 +1704,7 @@ GameObject:
   - component: {fileID: 1278570159}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
